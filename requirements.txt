@@ -4,3 +4,6 @@ feature-
 Emoji 
 type option
 colour
+
+Dark mode
+video 
