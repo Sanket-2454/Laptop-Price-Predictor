@@ -1,9 +1,2 @@
-This is chat application 
-
-feature-
-Emoji 
-type option
-colour
-
-Dark mode
-video 
+streamlit
+sklearn
